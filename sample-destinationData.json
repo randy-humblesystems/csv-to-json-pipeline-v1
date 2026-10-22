@@ -1,0 +1,9 @@
+{
+  "customerId":   "C-0001",
+  "addressLine1": "123 Main St",
+  "city":         "Toronto",
+  "postalCode":   "M5H 2N2",
+  "country":      "CA",
+  "balanceCad":   1250.00,
+  "accountStatus": "Active"
+}
