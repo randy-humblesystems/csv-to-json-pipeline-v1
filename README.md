@@ -141,4 +141,4 @@ sample-destinationData.json — example target schema
 
 ## Related
 
-Write-up and walkthrough: https://humblesystems.online
+Write-up and walkthrough: https://humblesystems.online/knowledge-base/privacy-first-data-transformation-pipeline
